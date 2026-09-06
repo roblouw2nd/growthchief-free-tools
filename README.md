@@ -9,6 +9,9 @@ Everything runs in the browser at **https://growthchief-tools.pages.dev** — no
 Plain Excel / Google Sheets workbooks, no macros. Each has a guide page on the site; the latest builds are also attached to **Releases**.
 
 - [`GrowthChief-Simple-Income-Expense-Tracker.xlsx`](free-download/GrowthChief-Simple-Income-Expense-Tracker.xlsx) — guide: https://growthchief-tools.pages.dev/free-income-and-expense-tracker/
+- [`GrowthChief-Simple-Invoice-Template.xlsx`](free-download/GrowthChief-Simple-Invoice-Template.xlsx) — guide: https://growthchief-tools.pages.dev/free-invoice-template-excel/
+- [`GrowthChief-Simple-Monthly-Budget.xlsx`](free-download/GrowthChief-Simple-Monthly-Budget.xlsx) — guide: https://growthchief-tools.pages.dev/free-monthly-budget-spreadsheet/
+- [`GrowthChief-Simple-Wedding-Budget.xlsx`](free-download/GrowthChief-Simple-Wedding-Budget.xlsx) — guide: https://growthchief-tools.pages.dev/free-wedding-budget-spreadsheet/
 - Build scripts (Python + openpyxl) live in `free-download/` so you can see exactly what's in each file.
 
 ## Calculators (20)
