@@ -4,13 +4,12 @@ Free, no-signup calculators, practical guides, and a free income & expense track
 
 Everything runs in the browser at **https://growthchief-tools.pages.dev** — nothing typed into a calculator is sent anywhere.
 
-## Free download: Simple Income & Expense Tracker (.xlsx)
+## Free downloads (.xlsx, no signup)
 
-A plain Excel / Google Sheets workbook: 200-row transaction log with Income/Expense and category dropdowns, plus a Summary sheet with all-time and this-month totals. No macros, no signup.
+Plain Excel / Google Sheets workbooks, no macros. Each has a guide page on the site; the latest builds are also attached to **Releases**.
 
-- Download: [`free-download/GrowthChief-Simple-Income-Expense-Tracker.xlsx`](free-download/GrowthChief-Simple-Income-Expense-Tracker.xlsx) (or grab the latest from **Releases**)
-- How to use it (Excel and Google Sheets): https://growthchief-tools.pages.dev/free-income-and-expense-tracker/
-- Built by `free-download/build_free_tracker.py` (Python + openpyxl) so you can see exactly what's in it.
+- [`GrowthChief-Simple-Income-Expense-Tracker.xlsx`](free-download/GrowthChief-Simple-Income-Expense-Tracker.xlsx) — guide: https://growthchief-tools.pages.dev/free-income-and-expense-tracker/
+- Build scripts (Python + openpyxl) live in `free-download/` so you can see exactly what's in each file.
 
 ## Calculators (20)
 
