@@ -16,10 +16,13 @@ Plain Excel / Google Sheets workbooks, no macros. Each has a guide page on the s
 - [`GrowthChief-Simple-Wedding-Budget.xlsx`](free-download/GrowthChief-Simple-Wedding-Budget.xlsx) — guide: https://growthchief-tools.pages.dev/free-wedding-budget-spreadsheet/
 - Build scripts (Python + openpyxl) live in `free-download/` so you can see exactly what's in each file.
 
-## Calculators (20)
+## Calculators (24)
 
+- [1% Rule Calculator for Rental Property](https://growthchief-tools.pages.dev/one-percent-rule-calculator/) — Free 1% rule calculator for rental property. Enter price, rehab and monthly rent to see if it passes, the rent needed and the maximum price at 1%.
 - [Airbnb vs Long-Term Rental Calculator](https://growthchief-tools.pages.dev/airbnb-vs-long-term-rental-calculator/) — Free Airbnb vs long-term rental calculator. Compare annual net cash flow both ways, the break-even occupancy short-term letting needs, and pay per hour.
 - [Apartment Move-In Cost Calculator](https://growthchief-tools.pages.dev/apartment-move-in-cost-calculator/) — Free apartment move-in cost calculator. Add deposit, first month's rent, fees, movers and setup to see the total cash you need on day one.
+- [Cap Rate Calculator](https://growthchief-tools.pages.dev/cap-rate-calculator/) — Free cap rate calculator for rental property. Enter price, rent, vacancy and expenses to get net operating income, cap rate, expense ratio and implied value.
+- [Cash-on-Cash Return Calculator](https://growthchief-tools.pages.dev/cash-on-cash-return-calculator/) — Free cash-on-cash return calculator for rental property. Enter price, down payment, loan, rent and costs to see annual cash flow and cash-on-cash return.
 - [Contract Day Rate vs Salary Calculator](https://growthchief-tools.pages.dev/contractor-rate-vs-salary-calculator/) — Free contract day rate vs salary calculator. Price in your pension, benefits, paid leave and self-employed costs to find the day rate that matches.
 - [Craft Fair Profit Calculator](https://growthchief-tools.pages.dev/craft-fair-profit-calculator/) — Free craft fair profit calculator. Enter your booth fee, travel and item costs to see how many items you must sell to break even and profit per hour.
 - [Debt Payoff Calculator (Snowball vs Avalanche)](https://growthchief-tools.pages.dev/debt-payoff-calculator/) — Free debt payoff calculator comparing the snowball and avalanche methods side by side. See months to debt-free and total interest for up to 6 debts.
@@ -31,7 +34,8 @@ Plain Excel / Google Sheets workbooks, no macros. Each has a guide page on the s
 - [Photography Package Pricing Calculator](https://growthchief-tools.pages.dev/photography-pricing-calculator/) — Free photography pricing calculator. Build a package price from base fee, extra edited photos, and add-ons, then see shoots needed to hit your goal.
 - [Print on Demand Profit Calculator](https://growthchief-tools.pages.dev/print-on-demand-profit-calculator/) — Free print on demand profit calculator. Enter retail price, supplier cost, shipping, fees and ad spend to see your real profit and break-even price.
 - [Real Estate Commission Split Calculator](https://growthchief-tools.pages.dev/real-estate-commission-split-calculator/) — Free real estate commission split calculator. Model your brokerage split, annual cap, franchise fee and team split to see your real net commission.
-- [Rental Property ROI Calculator](https://growthchief-tools.pages.dev/rental-property-roi-calculator/) — Free rental property ROI calculator. Enter purchase price, deposit, rent, and costs to get monthly cash flow, cap rate, and cash-on-cash return.
+- [Rental Property Cash Flow Calculator](https://growthchief-tools.pages.dev/rental-property-cash-flow-calculator/) — Free rental property cash flow calculator. Enter rent, expenses and loan terms to see monthly and annual cash flow, DSCR and your break-even rent.
+- [Rental Property ROI Calculator](https://growthchief-tools.pages.dev/rental-property-roi-calculator/) — Free rental property ROI calculator: enter price, rent, loan and expenses to see monthly cash flow, cash-on-cash return, cap rate, total ROI and the 1% rule.
 - [Self-Employed Tax Set-Aside Calculator](https://growthchief-tools.pages.dev/tax-set-aside-calculator/) — Free tax set-aside calculator for freelancers and self-employed workers. Enter your own tax rate to see how much to move to savings per payment and per month.
 - [Sinking Fund Calculator](https://growthchief-tools.pages.dev/sinking-fund-calculator/) — Free sinking fund calculator for multiple goals. Work out what to set aside each month or payday for every planned expense, and whether it all fits your budget.
 - [UGC Rate Calculator](https://growthchief-tools.pages.dev/ugc-rate-calculator/) — Free UGC rate calculator. Price a brand video from your base rate, then add usage rights, whitelisting, exclusivity, rush and revisions.
