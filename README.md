@@ -13,21 +13,25 @@ Plain Excel / Google Sheets workbooks, no macros. Each has a guide page on the s
 - [`GrowthChief-Simple-Invoice-Template.xlsx`](free-download/GrowthChief-Simple-Invoice-Template.xlsx) — guide: https://growthchief-tools.pages.dev/free-invoice-template-excel/
 - [`GrowthChief-Simple-Mileage-Log.xlsx`](free-download/GrowthChief-Simple-Mileage-Log.xlsx) — guide: https://growthchief-tools.pages.dev/free-mileage-log-template/
 - [`GrowthChief-Simple-Monthly-Budget.xlsx`](free-download/GrowthChief-Simple-Monthly-Budget.xlsx) — guide: https://growthchief-tools.pages.dev/free-monthly-budget-spreadsheet/
+- [`GrowthChief-Simple-Rental-Property-Analysis.xlsx`](free-download/GrowthChief-Simple-Rental-Property-Analysis.xlsx) — guide: https://growthchief-tools.pages.dev/free-rental-property-analysis-spreadsheet/
 - [`GrowthChief-Simple-Wedding-Budget.xlsx`](free-download/GrowthChief-Simple-Wedding-Budget.xlsx) — guide: https://growthchief-tools.pages.dev/free-wedding-budget-spreadsheet/
 - Build scripts (Python + openpyxl) live in `free-download/` so you can see exactly what's in each file.
 
-## Calculators (24)
+## Calculators (27)
 
 - [1% Rule Calculator for Rental Property](https://growthchief-tools.pages.dev/one-percent-rule-calculator/) — Free 1% rule calculator for rental property. Enter price, rehab and monthly rent to see if it passes, the rent needed and the maximum price at 1%.
 - [Airbnb vs Long-Term Rental Calculator](https://growthchief-tools.pages.dev/airbnb-vs-long-term-rental-calculator/) — Free Airbnb vs long-term rental calculator. Compare annual net cash flow both ways, the break-even occupancy short-term letting needs, and pay per hour.
 - [Apartment Move-In Cost Calculator](https://growthchief-tools.pages.dev/apartment-move-in-cost-calculator/) — Free apartment move-in cost calculator. Add deposit, first month's rent, fees, movers and setup to see the total cash you need on day one.
+- [BRRRR Calculator](https://growthchief-tools.pages.dev/brrrr-calculator/) — Free BRRRR calculator: enter purchase, rehab, ARV and refinance terms to see cash left in the deal, cash-out at refinance, post-refi cash flow and cash-on-cash return.
 - [Cap Rate Calculator](https://growthchief-tools.pages.dev/cap-rate-calculator/) — Free cap rate calculator for rental property. Enter price, rent, vacancy and expenses to get net operating income, cap rate, expense ratio and implied value.
 - [Cash-on-Cash Return Calculator](https://growthchief-tools.pages.dev/cash-on-cash-return-calculator/) — Free cash-on-cash return calculator for rental property. Enter price, down payment, loan, rent and costs to see annual cash flow and cash-on-cash return.
 - [Contract Day Rate vs Salary Calculator](https://growthchief-tools.pages.dev/contractor-rate-vs-salary-calculator/) — Free contract day rate vs salary calculator. Price in your pension, benefits, paid leave and self-employed costs to find the day rate that matches.
 - [Craft Fair Profit Calculator](https://growthchief-tools.pages.dev/craft-fair-profit-calculator/) — Free craft fair profit calculator. Enter your booth fee, travel and item costs to see how many items you must sell to break even and profit per hour.
 - [Debt Payoff Calculator (Snowball vs Avalanche)](https://growthchief-tools.pages.dev/debt-payoff-calculator/) — Free debt payoff calculator comparing the snowball and avalanche methods side by side. See months to debt-free and total interest for up to 6 debts.
+- [DSCR Calculator for Rental Property](https://growthchief-tools.pages.dev/dscr-calculator/) — Free DSCR calculator for rental loans: enter rent, expenses and payment to see your debt service coverage ratio (NOI and PITIA basis) and the maximum loan at a target DSCR.
 - [Etsy Fee & Profit Calculator](https://growthchief-tools.pages.dev/etsy-fee-calculator/) — Free Etsy fee calculator. Enter your item price, shipping, and costs to see Etsy's listing, transaction and payment fees, plus your true profit.
 - [Freelance Hourly Rate Calculator](https://growthchief-tools.pages.dev/freelance-rate-calculator/) — Free freelance hourly rate calculator. Enter your income goal, expenses, and realistic billable hours to get the hourly and day rate to charge.
+- [Gross Rent Multiplier Calculator](https://growthchief-tools.pages.dev/gross-rent-multiplier-calculator/) — Free gross rent multiplier calculator: enter price and rent to get the GRM, the implied price from a market GRM, and a cap rate comparison.
 - [Invoice Due Date & Late Fee Calculator](https://growthchief-tools.pages.dev/invoice-due-date-calculator/) — Free invoice due date and late fee calculator. Enter your invoice date, terms, and late fee percentage to get the due date and total owed.
 - [Personal Training Package Pricing Calculator](https://growthchief-tools.pages.dev/personal-training-package-pricing-calculator/) — Free personal training package pricing calculator. Price 5, 10 and 20-session packages that survive revenue share, no-shows, and discounts.
 - [Photography Cost of Doing Business (CODB) Calculator](https://growthchief-tools.pages.dev/photography-cost-of-doing-business-calculator/) — Free photography cost of doing business calculator. Enter overhead, gear fund, salary and sessions per year to get your minimum session fee.
